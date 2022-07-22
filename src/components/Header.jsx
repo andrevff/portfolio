@@ -6,7 +6,7 @@ export function Header(){
             <div className="bg-green-900 w-full flex justify-between mx-auto">
                 <div className="">
                     <h1 className="pt-8 pl-8 pr-8 text-[2.5rem] leading-tight font-bold">Olá, me chamo André!</h1>
-                    <p className="ml-8 text-gray-300 leading-relaxed">Sou desenvolvedor web front-end, em formação.</p>
+                    <p className="ml-8 mb-8 text-gray-300 leading-relaxed">Sou desenvolvedor web front-end, em formação.</p>
                 </div>
                 <div className="p-8 rounded">
                     <div className="pb-3">
