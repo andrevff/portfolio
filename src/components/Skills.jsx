@@ -7,7 +7,7 @@ export function Skills(){
             <div>
                 <h1 className="text-[2.2rem] font-bold mb-1 ml-12">Habilidades</h1>
                 <ul className="mb-1 ml-12">
-                    <code>
+                    <code className="text-gray-200">
                         <li>HTML5</li>
                         <li>CSS3</li>
                         <li>Javascript</li>

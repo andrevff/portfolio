@@ -2,7 +2,7 @@ import { GithubLogo, LinkedinLogo } from "phosphor-react";
 
 export function Footer(){
     return(
-        <div className="pt-[100px] ml-8 mb-8 flex justify-between mx-auto">
+        <div className="pt-[100px] pl-3 mb-8 flex justify-between mx-auto">
             <div className="text-gray-400">
                 <p>© Todos os direitos reservados - André Ferreira</p>
                 <p>Designed by <a className="text-blue-200 hover:text-blue-800 transition-colors" href="mailto:andrevcandido61@gmail.com" target="_blank">andrevcandido61@gmail.com</a> | 2022</p>
